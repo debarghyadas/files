@@ -1,1 +1,1 @@
-https://angular-5-tutorial-example.stackblitz.io/dashboard
+https://stackblitz.com/edit/angular-5-tutorial-example
